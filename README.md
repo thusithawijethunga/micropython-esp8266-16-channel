@@ -18,6 +18,9 @@ ESP8266 with 16-channel analog digital multiplexer using Micropython
 * Flasher Tool - https://github.com/marcelstoer/nodemcu-pyflasher
 * Thonny IDE - https://thonny.org/
 
+[pyFlasher](https://raw.githubusercontent.com/thusithawijethunga/micropython-esp8266-16-channel/main/nodemcu-pyflasher.png)
+
+
 # References
 
 * https://micropython.org/
