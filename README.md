@@ -9,7 +9,7 @@ ESP8266 with 16-channel analog digital multiplexer using Micropython
 
 * PCB Design using https://fritzing.org/
 
-![Download PCB File](https://raw.githubusercontent.com/thusithawijethunga/micropython-esp8266-16-channel/main/diagram/MicroPython-Mux.fzz)
+[Download PCB File](https://raw.githubusercontent.com/thusithawijethunga/micropython-esp8266-16-channel/main/diagram/MicroPython-Mux.fzz)
 
 #References
 
