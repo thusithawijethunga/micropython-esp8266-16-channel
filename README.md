@@ -13,7 +13,7 @@ ESP8266 with 16-channel analog digital multiplexer using Micropython
 
 # Tools
 
-* NodeMCU Amica V2 - ESP8266 with 2MiB+ flash
+* NodeMCU Amica V2 - [ESP8266](https://micropython.org/download/esp8266/) with 2MiB+ flash, 
 * Firmware - Nightly builds [v1.18-355-g9ab66b50c (2022-04-17) .bin](https://micropython.org/resources/firmware/esp8266-20220417-unstable-v1.18-355-g9ab66b50c.bin)
 * Flasher Tool - https://github.com/marcelstoer/nodemcu-pyflasher
 * Thonny IDE - https://thonny.org/
