@@ -1,7 +1,7 @@
 # ESP8266 with 16-Channel analog digital multiplexer using Micropython
 ESP8266 with 16-channel analog digital multiplexer using Micropython
 
-[![MicroPython](MicroPython "MicroPython")](./diagram/MicroPython-Mux_bb.png?raw=true)
+![MicroPython](https://raw.githubusercontent.com/thusithawijethunga/micropython-esp8266-16-channel/main/diagram/MicroPython-Mux_bb.png)
 
 
 #References
