@@ -11,8 +11,16 @@ ESP8266 with 16-channel analog digital multiplexer using Micropython
 
 [Download PCB File](https://raw.githubusercontent.com/thusithawijethunga/micropython-esp8266-16-channel/main/diagram/MicroPython-Mux.fzz)
 
+# Tools
+
+* NodeMCU Amica V2 - ESP8266 with 2MiB+ flash
+* Firmware - Nightly builds [v1.18-355-g9ab66b50c (2022-04-17) .bin](https://micropython.org/resources/firmware/esp8266-20220417-unstable-v1.18-355-g9ab66b50c.bin)
+* Flasher Tool - https://github.com/marcelstoer/nodemcu-pyflasher
+* Thonny IDE - https://thonny.org/
+
 # References
 
+* https://micropython.org/
 * https://out-of-cheese-error.netlify.app/amping-up-the-single-analog-input-of-esp8266-to-16#micropython-for-cd74hc4067
 * https://docs.micropython.org/en/latest/esp8266/quickref.html#timers
 * https://solarduino.com/increase-analog-pins-for-nodemcu-using-16-channel-analog-multiplexer-module/
