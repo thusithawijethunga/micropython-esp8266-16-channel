@@ -7,6 +7,10 @@ ESP8266 with 16-channel analog digital multiplexer using Micropython
 
 ![MicroPython Schem](https://raw.githubusercontent.com/thusithawijethunga/micropython-esp8266-16-channel/main/diagram/MicroPython-Mux_schem.png)
 
+* PCB Design using https://fritzing.org/
+
+![Download PCB File](https://raw.githubusercontent.com/thusithawijethunga/micropython-esp8266-16-channel/main/diagram/MicroPython-Mux.fzz)
+
 #References
 
 * https://out-of-cheese-error.netlify.app/amping-up-the-single-analog-input-of-esp8266-to-16#micropython-for-cd74hc4067
